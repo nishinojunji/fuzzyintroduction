@@ -1,4 +1,4 @@
-# ファジィ理論入門
+# 新しいファジィ理論入門
 
 - [ファジィシステムとあいまいさ](intro-fuzzyandsomething.md)
 - [ファジィ集合](fuzzyset.md)
