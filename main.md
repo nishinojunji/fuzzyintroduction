@@ -2,7 +2,7 @@
 
 - [ファジィシステムとあいまいさ](intro-fuzzyandsomething.md)
 - [ファジィ集合](fuzzyset.md)
-- ファジィ論理
+- [ファジィ論理](theoryof-fuzzylogic.md)
 - ファジィ推論
 - ファジィ測度とファジィ積分
 
