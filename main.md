@@ -6,7 +6,7 @@
 - [ファジィ推論](fuzzyinference.md)
 - [ファジィ測度とファジィ積分](fuzzymeasure-and-integral.md)
 
-- ファジィ制御
+- [ファジィ制御](fuzzycontrol.md)
 - ファジィモデリング
 - ファジィクラシファイア
 - ファジィ意思決定支援システム
