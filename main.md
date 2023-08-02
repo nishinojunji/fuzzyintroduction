@@ -7,7 +7,7 @@
 - [ファジィ測度とファジィ積分](fuzzymeasure-and-integral.md)
 
 - [ファジィ制御](fuzzycontrol.md)
-- ファジィモデリング
+- [ファジィモデリング](fuzzymodeling.md)
 - ファジィクラシファイア
 - ファジィ意思決定支援システム
 
