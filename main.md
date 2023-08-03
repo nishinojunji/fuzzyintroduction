@@ -8,7 +8,7 @@
 
 - [ファジィ制御](fuzzycontrol.md)
 - [ファジィモデリング](fuzzymodeling.md)
-- ファジィクラシファイア
+- [ファジィクラシファイア](fuzzyclassifier.md)
 - ファジィ意思決定支援システム
 
 - ファジィ + ニューロシステム
