@@ -11,7 +11,7 @@
 - [ファジィクラシファイア](fuzzyclassifier.md)
 - [ファジィ意思決定支援システム](fuzzydecisionmaking.md)
 
-- ファジィ + ニューロシステム
+- [ファジィ + ニューロシステム](fuzzyneuro.md)
 - ファジィ + 遺伝的アルゴリズム
 
 - 言語的変数
