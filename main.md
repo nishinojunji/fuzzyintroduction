@@ -12,7 +12,7 @@
 - [ファジィ意思決定支援システム](fuzzydecisionmaking.md)
 
 - [ファジィ + ニューロシステム](fuzzyneuro.md)
-- ファジィ + 遺伝的アルゴリズム
+- [ファジィ + 遺伝的アルゴリズム](FuzzyGAs.md)
 
 - 言語的変数
 - Computing with Words
