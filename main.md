@@ -14,7 +14,7 @@
 - [ファジィ + ニューロシステム](fuzzyneuro.md)
 - [ファジィ + 遺伝的アルゴリズム](FuzzyGAs.md)
 
-- 言語的変数
+- [言語的変数](Linguistic-Variable.md)
 - Computing with Words
 - Granuler Computing
 - type2 ファジィ
