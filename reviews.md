@@ -2,6 +2,9 @@
 
 - 将来的に参考文献にする文献等のメモランダム
 
+- [The concept of a linguistic variable and its application to approximate reasoning—I、II、III](https://www.sciencedirect.com/science/article/abs/pii/0020025575900365)
+  ファジィ理論の応用の原点であり、ガイドライン。
+
 - [三石貴志, et al. "Mamdani 推論法の最適化問題への応用 (情報数理に関連する応用函数解析の研究)." 
 数理解析研究所講究録 1100 (1999): 78-86.](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/63160)
   マムダニ型のファジィ集合を用いた推論について、解析的な分析を行い最適化の枠組みで扱える数学的対象であるかを議論している。
