@@ -15,7 +15,7 @@
 - [ファジィ + 遺伝的アルゴリズム](FuzzyGAs.md)
 
 - [言語的変数](Linguistic-Variable.md)
-- Computing with Words
+- [Computing with Words](computing-with-words.md)
 - Granuler Computing
 - type2 ファジィ
 - ファジィアルゴリズム
