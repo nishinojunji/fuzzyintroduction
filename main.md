@@ -20,6 +20,8 @@
 - type2 ファジィ
 - ファジィアルゴリズム
 
+- ファジィシステム応用
+
 - [文献](reviews.md)
 
 (c) 2023 西野順二 nishinojunji@gmail.com
