@@ -16,7 +16,7 @@
 
 - [言語的変数](Linguistic-Variable.md)
 - [Computing with Words](computing-with-words.md)
-- Granuler Computing
+- [Granuler Computing](granular-computing.md)
 - type2 ファジィ
 - ファジィアルゴリズム
 
