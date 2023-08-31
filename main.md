@@ -17,7 +17,7 @@
 - [言語的変数](Linguistic-Variable.md)
 - [Computing with Words](computing-with-words.md)
 - [Granuler Computing](granular-computing.md)
-- type2 ファジィ
+- [type-2 ファジィ](Type-2_fuzzy_sets.md)
 - ファジィアルゴリズム
 
 - ファジィシステム応用
