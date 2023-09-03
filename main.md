@@ -18,7 +18,7 @@
 - [Computing with Words](computing-with-words.md)
 - [Granuler Computing](granular-computing.md)
 - [type-2 ファジィ](Type-2_fuzzy_sets.md)
-- ファジィアルゴリズム
+- [ファジィアルゴリズム](fuzzyalgorithm.md)
 
 - ファジィシステム応用
 
