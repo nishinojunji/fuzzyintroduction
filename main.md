@@ -20,7 +20,7 @@
 - [type-2 ファジィ](Type-2_fuzzy_sets.md)
 - [ファジィアルゴリズム](fuzzyalgorithm.md)
 
-- ファジィシステム応用
+- [ファジィシステム応用](fuzzyapplications.md)
 
 - [文献](reviews.md)
 
