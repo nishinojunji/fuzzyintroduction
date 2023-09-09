@@ -23,5 +23,6 @@
 - [ファジィシステム応用](fuzzyapplications.md)
 
 - [文献](reviews.md)
+- [misc](misc.md)
 
 (c) 2023 西野順二 nishinojunji@gmail.com
