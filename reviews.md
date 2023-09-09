@@ -12,3 +12,9 @@
 
 - [Sugeno, Michio, and Takahiro Yasukawa. "A fuzzy-logic-based approach to qualitative modeling." IEEE Transactions on fuzzy systems 1.1 (1993): 7.](https://ieeexplore.ieee.org/document/390281)
 　言語モデルとファジィ理論との接続を試みた研究。IEEE の TFS(Transaction on Fuzzy Systems)の第一巻第一号に掲載され、言語とファジィの研究の記念碑でもある。
+
+- [Wang, Li-Xin, and Jerry M. Mendel. "Fuzzy basis functions, universal approximation, and orthogonal least-squares learning." IEEE transactions on Neural Networks 3.5 (1992): 807-814.](https://ieeexplore.ieee.org/document/159070)
+　ファジィ推論の表現能力の万能性について。万能近似能力を持つことを証明。
+
+- [Kosko, Bart. "Fuzzy systems as universal approximators." IEEE transactions on computers 43.11 (1994): 1329-1333.](https://ieeexplore.ieee.org/abstract/document/324566)
+  コスコによるファジィ推論の万能性について。
