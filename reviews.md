@@ -18,6 +18,12 @@
 
 - [Kosko, Bart. "Fuzzy systems as universal approximators." IEEE transactions on computers 43.11 (1994): 1329-1333.](https://ieeexplore.ieee.org/abstract/document/324566)
   バートコスコによるファジィ推論の万能性について。
+  その[日本語解説-短評](https://www.jstage.jst.go.jp/article/jfuzzy/5/2/5_KJ00002968938/_article/-char/ja)
 
 - [菅野道夫講演記録. "講演記録 ファジィ理論の 目指す もの-フ ァジィ制御." Journal of the MESJ 25.10 (1990): 12.](https://www.jstage.jst.go.jp/article/jime1966/25/10/25_10_677/_pdf/-char/ja)
-　ファジィ理論がもつあいまいさの扱い、言語の扱い、確率との相違点、ファジィ制御について。
+　ファジィ理論基礎の第一人者菅野先生によるファジィ理論がもつあいまいさの扱い、言語の扱い、確率との相違点、ファジィ制御について。
+
+- [水本雅晴. "ファジィ推論 (1)(ファジィ理論入門 (8))." 日本ファジィ学会誌 4.2 (1992): 256-264.](https://www.jstage.jst.go.jp/article/jfuzzy/4/2/4_KJ00002087649/_article/-char/ja/)
+  ファジィ推論研究のパイオニア水本先生によるファジィ推論解説シリーズ
+
+-[ファジィ集合論の原点を求めて、ロトフィ A.ザデー, 山川 烈](https://www.jstage.jst.go.jp/article/jfuzzy/4/2/4_KJ00002087647/_article/-char/ja)
