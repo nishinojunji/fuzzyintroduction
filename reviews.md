@@ -19,5 +19,5 @@
 - [Kosko, Bart. "Fuzzy systems as universal approximators." IEEE transactions on computers 43.11 (1994): 1329-1333.](https://ieeexplore.ieee.org/abstract/document/324566)
   バートコスコによるファジィ推論の万能性について。
 
--[菅野道夫講演記録. "講演記録 ファジィ理論の 目指す もの-フ ァジィ制御." Journal of the MESJ 25.10 (1990): 12.](https://www.jstage.jst.go.jp/article/jime1966/25/10/25_10_677/_pdf/-char/ja)
+- [菅野道夫講演記録. "講演記録 ファジィ理論の 目指す もの-フ ァジィ制御." Journal of the MESJ 25.10 (1990): 12.](https://www.jstage.jst.go.jp/article/jime1966/25/10/25_10_677/_pdf/-char/ja)
 　ファジィ理論がもつあいまいさの扱い、言語の扱い、確率との相違点、ファジィ制御について。
