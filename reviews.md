@@ -2,6 +2,8 @@
 
 - 将来的に参考文献にする文献等のメモランダム
 
+-[人工知能学会 私のブックマーク ファジィ理論](https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol39-no1/)
+
 - [The concept of a linguistic variable and its application to approximate reasoning—I、II、III](https://www.sciencedirect.com/science/article/abs/pii/0020025575900365)
   ファジィ理論の応用の原点であり、ガイドライン。
 
