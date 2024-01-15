@@ -3,7 +3,7 @@
 - [ファジィシステムとあいまいさ](intro-fuzzyandsomething.md)
 - [ファジィ集合](fuzzyset.md)
 - [ファジィ論理](theoryof-fuzzylogic.md)
-- [ファジィ推論](fuzzyinference.md)
+- [ファジィ推論](fuzzyreasoning/fuzzyinference.md)
 - [ファジィ測度とファジィ積分](fuzzymeasure-and-integral.md)
 
 - [ファジィ制御](fuzzycontrol.md)
