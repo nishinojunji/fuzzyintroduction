@@ -2,18 +2,15 @@
 /* Junji Nishino */
 
 int main(){
-  FuzzyRule fr;
-  InputVec x;
-  FuzzyConsequence fc;
-  double output;
+  FuzzyRule fr; // the rule set (n inputs, 1 output)
+  InputVec x;  // a real number vector(x1, x2, .. xn)
+  FuzzyConsequence fc; // a result in fuzzy set
+  double y;  // a real number
 
-  fr = fuzzyrule_new();
-  fuzzyrule_load("rulefile.fr");
+  fr = fuzzyrule_load("rulefile.fr"); // set up the rules
+  x = input_data();  // input
+  fc = fuzzyReasoning(fr, x); // reasoning : data->fuzzy set 
+  y = fuzzyrule_defuzzyfication(fc); // de-fuzzyfi fc into y
 
-  x = input_data();
-
-  fc = fuzzyReasoning(fr, x);
-  output = fuzzyrule_defuzzyfication(fc);
-
-  printf("%f\n", output);
+  printf("output is %ld\n", y);
 }
